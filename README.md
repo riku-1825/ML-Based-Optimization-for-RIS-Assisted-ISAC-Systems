@@ -1,0 +1,2 @@
+# ML-Based-Optimization-for-RIS-Assisted-ISAC-Systems
+Deep learning based optimization framework for RIS-assisted Integrated Sensing and Communication (RIS-ISAC) systems. The model learns the mapping from channel state information to RIS phase shifts and beamforming parameters, enabling low-complexity sum-rate maximization under radar SNR constraints. Based on the work of Liu et al., IEEE TWC 2024.
