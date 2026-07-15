@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-FF6F00?logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-orange)
+![CUDA](https://img.shields.io/badge/CUDA-13.0-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # ML-Based-Optimization-for-RIS-Assisted-ISAC-Systems
 Deep learning based optimization framework for RIS-assisted Integrated Sensing and Communication (RIS-ISAC) systems. The model learns the mapping from channel state information to RIS phase shifts and beamforming parameters, enabling low-complexity sum-rate maximization under radar SNR constraints. Based on the work of Liu et al., IEEE TWC 2024.
 
